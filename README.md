@@ -9,6 +9,14 @@ git clone https://github.com/phuc223/C2-Server/
 cd C2-Server
 python3 server.py -h
 ```
+Default without any argument: IP: 127.0.0.1 and port: 9999.
+The program may not kill the port properly, so I'll just provide you another program, which is "killport.sh", default port: 8000.
+# How to use this program?
+``` bash
+chmod +x killport.sh
+./killport.sh <your_port_here> 
+```
+
 # For Client
 ``` bash
 git clone https://github.com/phuc223/C2-Server/
