@@ -1,0 +1,14 @@
+Void pointer definition:
+
+A void pointer, also known as a generic pointer, is a special type of pointer in C and C++ that can hold the memory address of any data type. Unlike regular pointers, void pointers do not have an associated data type, making them versatile for working with data of unknown or varying type.
+
+fgets(buf, n, stream);
+Parameters:
+
+buff: Pointer to the string buffer where the input will be stored.
+n: The maximum number of characters to read(including the null terminator).
+stream: The input stream, typically stdin for reading from the keyboard.
+
+Return Value:
+Returns the pointer to buff if sucessful.
+Returns NULL if an error occurs or the end-of-file(EOF) is reached.
