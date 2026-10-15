@@ -1,3 +1,4 @@
+<img width="1536" height="790" alt="image" src="https://github.com/user-attachments/assets/fd66affd-2c27-44be-8f27-2b5ffc1345d2" />
 # C2-Server
 Purpose: Create a server in order to await for client's connection. Adding stealth mechanism, in order to hide the packet.
 # How does it work:
@@ -26,4 +27,4 @@ cd Linux
 ```
 # If you want to rebuild you can just use "$ make clean" and "$ make"
 # The C2 Server currently cannot use the --secure module properly, I will add more to the client later.
-<img width="1536" height="790" alt="image" src="https://github.com/user-attachments/assets/fd66affd-2c27-44be-8f27-2b5ffc1345d2" />
+
