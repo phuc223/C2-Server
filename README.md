@@ -6,6 +6,8 @@ When running the client in /Linux file, it will use socket module, to connect ba
 # How to run it?
 # For C2-Server
 <img width="1536" height="790" alt="image" src="https://github.com/user-attachments/assets/fd66affd-2c27-44be-8f27-2b5ffc1345d2" />
+
+
 ``` bash
 git clone https://github.com/phuc223/C2-Server/
 cd C2-Server
